@@ -1,1 +1,1 @@
-# github page
+theme: jekyll-theme-minimal
